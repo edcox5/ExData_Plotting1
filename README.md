@@ -1,3 +1,9 @@
+## BEFORE YOU RUN THE R SCRIPTS
+
+Each script requires that the data file be named "household_power_consumption.txt"
+and located in the working directory.
+
+
 ## Introduction
 
 This assignment uses data from
